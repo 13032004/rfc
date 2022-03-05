@@ -1,4 +1,4 @@
-//  --------------------------------------------------------------------------
+//  -----------------------------------------------
 //  Reference implementation for rfc.zeromq.org/spec:32/Z85
 //
 //  This implementation provides a Z85 codec as an easy-to-reuse C class 
